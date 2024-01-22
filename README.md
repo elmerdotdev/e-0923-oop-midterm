@@ -5,10 +5,11 @@ Goal: Create a CRUD (Create, Retrieve, Update, Delete) web application using cla
 ## Instructions
 
 1. Clone this repository to your local machine
-2. Design and build a responsive website where you can add, find, edit, and delete data using one or more classes
+2. Design and build a responsive website where you can add, get, edit, and delete data using one or more classes
 3. Make sure to create different methods for each functionality. For example, one method for add, find, edit, and delete
-4. Push your changes to your master branch
-5. Present your midterm project
+4. Your data should be stored in an empty array/s in a constructor/s
+5. Push your changes to your master branch
+6. Present your midterm project
 
 ## Guidelines
 
